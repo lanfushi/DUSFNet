@@ -1,6 +1,6 @@
-# SSIUCE
+# DUSFNet
 
-SSIUCE is a model for remote sensing image super-resolution. It is improved from the SSIU baseline model and is designed to enhance the reconstruction quality of high-resolution remote sensing images.
+DUSFNet is a model for remote sensing image super-resolution. It is improved from the SSIU baseline model and is designed to enhance the reconstruction quality of high-resolution remote sensing images.
 
 **Source code coming soon.**
 
